@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeautyPaper</string>
+    <string name="select_wallpaper">Select WallPaper</string>
+    <string name="apply_beauty_wallpaper">Apply the Beauty WallPaper</string>
+    <string name="need_camera_permission">Need Camera Permission</string>
+</resources>
