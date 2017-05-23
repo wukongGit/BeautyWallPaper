@@ -3,4 +3,7 @@
     <string name="select_wallpaper">选择壁纸</string>
     <string name="apply_beauty_wallpaper">应用透明壁纸</string>
     <string name="need_camera_permission">请允许拍照权限</string>
+    <string name="open_camera_permission_later">如果你拒绝使用相机权限,将无法使用此等功能.\n请在[设置]>[权限]中打开</string>
+    <string name="go_setting">设置</string>
+    <string name="i_known">知道了</string>
 </resources>

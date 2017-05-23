@@ -29,6 +29,9 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    compile "com.tbruyelle.rxpermissions:rxpermissions:${RXPERMISSIONS_VERSION}"
+    compile "io.reactivex:rxandroid:${RXANDROID_VERSION}"
+    compile "io.reactivex:rxjava:${RXJAVA_VERSION}"
 }
 repositories {
     mavenCentral()

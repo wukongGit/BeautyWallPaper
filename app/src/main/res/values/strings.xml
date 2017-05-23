@@ -3,4 +3,7 @@
     <string name="select_wallpaper">Select WallPaper</string>
     <string name="apply_beauty_wallpaper">Apply the Beauty WallPaper</string>
     <string name="need_camera_permission">Need Camera Permission</string>
+    <string name="open_camera_permission_later">if you decline the permission, the transparent wallpaper will be unused.\n please open the permission later on [settings]>[permissions]</string>
+    <string name="go_setting">Setting</string>
+    <string name="i_known">I Known</string>
 </resources>

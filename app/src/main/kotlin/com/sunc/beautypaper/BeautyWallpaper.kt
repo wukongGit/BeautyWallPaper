@@ -56,12 +56,10 @@ class BeautyWallpaper : WallpaperService() {
          * 停止预览
          */
         fun stopPreview() {
-            if (camera != null) {
-                camera!!.stopPreview()
-                camera!!.setPreviewCallback(null)
-                camera!!.release()
-                camera = null
-            }
+            camera?.stopPreview()
+            camera?.setPreviewCallback(null)
+            camera?.release()
+            camera = null
         }
 
         override fun onPreviewFrame(bytes: ByteArray, camera: Camera) {
