@@ -5,7 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.sunc.beautypaper.MainActivity"
-    android:background="@mipmap/bg">
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/bg"
+        />
 
     <TextView
         android:id="@+id/tv_hello"
